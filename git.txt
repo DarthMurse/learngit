@@ -1,3 +1,4 @@
 Git is a distribution version control software.
 Git is used by thousands of people.
 Git is a free software.
+Everybody likes it.
